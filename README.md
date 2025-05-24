@@ -2,7 +2,8 @@
 
 Welcome to my personal developer portfolio — a space to showcase my technical journey, projects, skills, and credentials. This site is built with accessibility, responsiveness, and visual clarity in mind using **Tailwind CSS** and modern frontend practices.
 
-![screenshot](preview.png)
+![Portfolio Preview](preview.png)
+
 
 ---
 
